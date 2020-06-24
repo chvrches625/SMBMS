@@ -23,3 +23,6 @@
 hs_err_pid*
 
 note.md
+/out
+.idea
+/target
