@@ -1,8 +1,0 @@
-com\jiangzhe\pojo\Role.class
-com\jiangzhe\pojo\User.class
-com\jiangzhe\filter\SysFilter.class
-com\jiangzhe\service\user\UserService.class
-com\jiangzhe\dao\user\UserDao.class
-com\jiangzhe\service\user\UserServiceImpl.class
-com\jiangzhe\dao\user\UserDaoImpl.class
-com\jiangzhe\dao\BaseDao.class
